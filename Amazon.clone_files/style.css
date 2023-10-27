@@ -19,7 +19,7 @@
 }
 
 .logo {
-    background-image: url("class.p/amazon_logo.png");
+    background-image: url("../amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -136,7 +136,7 @@ span {
 
 
 .hero-section {
-    background-image: url("class.p/PC_tall_Hero_SVD_UNREC_BoB_2x._CB595914299_.jpg");
+    background: url("https://images-eu.ssl-images-amazon.com/images/G/31/Events/img23/Jupiter23/phase2/P2_PC_Header_event_UNREC_EN.jpg") center;
     background-size: cover;
     height: 400px;
     display: flex;
@@ -241,7 +241,7 @@ ul a {
 }
 
 .logo {
-    background-image: url("class.p/amazon_logo.png");
+    /* background-image: url("class.p/amazon_logo.png"); */
     background-size: cover;
     height: 50px;
     width: 100px;
